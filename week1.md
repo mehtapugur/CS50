@@ -14,7 +14,6 @@ int main(void)
 }
 ```
 <br><br>
-
 * "Mario" task
 
 ```
@@ -43,7 +42,6 @@ int main(void)
 }
 ```
 <br><br>
-
 * "Credit" task
 
 ```
