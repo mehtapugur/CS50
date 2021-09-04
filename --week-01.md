@@ -3,7 +3,7 @@ Lecture notes https://cs50.harvard.edu/x/2020/notes/1/#more-examples
 
 * "Hello" task
 
-```
+```c
 #include <cs50.h>
 #include <stdio.h>
 
@@ -16,7 +16,7 @@ int main(void)
 <br><br>
 * "Mario" task
 
-```
+```c
 int main(void)
 {
     int n;
@@ -44,7 +44,7 @@ int main(void)
 <br><br>
 * "Credit" task
 
-```
+```c
 #include <stdio.h>
 #include <cs50.h>
 
