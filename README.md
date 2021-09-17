@@ -8,6 +8,7 @@ Türkçeleştirilmiş versiyonudur.
 
 Türkçe derslere [bu linkten](https://courses.kodluyoruz.org/courses/course-v1:Kodluyoruz+CS50x+2020/about) ulaşabilirsiniz.
 İngilizce dersler için [Harvard'ın sitesine](https://cs50.harvard.edu/) bakabilirsiniz.
+<br>
 
-<img src="https://user-images.githubusercontent.com/24686636/133863599-a5f2b802-e064-4e0b-87a6-ea286af89034.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/24686636/133863599-a5f2b802-e064-4e0b-87a6-ea286af89034.png" width="700" height="400" />
 
